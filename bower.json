@@ -1,0 +1,24 @@
+{
+  "name": "avatar",
+  "authors": [
+    "gowrisankarit15@gmail.com"
+  ],
+  "description": "Display picture for angular application",
+  "main": "avatar.js",
+  "keywords": [
+    "Avatar",
+    "Material",
+    "Avatar",
+    "DP",
+    "Profile"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
