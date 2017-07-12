@@ -4,19 +4,25 @@ This module is used for generating avatars dynamically and it is a simple elemen
 
 ### Installation
 
+```
 bower install material-avatar --save
+```
 
 
 ### Add to your Module/Project
 
+```
 angular.module('Project Name',['materialAvatar'])
-
+```
 ### Sample Code
 
+```
 <ng-avatar name="Gowrisankar"></ng-avatar>
+```
 
 ### Available feautres are 
 
+```
  name: "@",
  img: "@",
  size: "@",
@@ -26,7 +32,11 @@ angular.module('Project Name',['materialAvatar'])
  rotateDeg: "@",
  border: "@"
  customBorder: "@",
- textColor: "@"
+ textColor: "@" 
+ 
+ 
  
  where @ === String
+ 
+ ``
 
